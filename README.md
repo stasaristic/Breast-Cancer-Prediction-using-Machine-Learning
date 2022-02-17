@@ -5,3 +5,5 @@ Data set used is Breast Cancer Wisconsin (Diagnostic) Dataset: https://archive.i
 Logistic Regression accuracy: 97%  
 Decision Tree classification accuracy: 95%  
 Random Forest classification accuracy: 97%  
+Support Vector Machine accuracy: 98%  
+
